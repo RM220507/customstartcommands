@@ -2,6 +2,12 @@
   "name": "customstartcommands",
   "displayName": "CustomStartCommands",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RM220507/customstartcommands.git"
+  },
+  "license": "MIT",
+  "publisher": "RM220507",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.100.0"
