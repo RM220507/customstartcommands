@@ -22,6 +22,8 @@ Currently, there are no knownn issues. If you discover anything please create a 
 
 ## About Me
 
+My publisher ID is incorrect (I mistyped it :(). It should be 'RM220507' not 'RM220506'.
+
 * [My Github](https://github.com/RM220507)
 
 **Enjoy!**
