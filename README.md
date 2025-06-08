@@ -1,35 +1,24 @@
 # customstartcommands README
 
-This is a really small extension that allows you to configure specific start commands for each 
+This is a really small extension that allows you to configure specific start commands for each workspace to start projects.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+Define a custom command which can be triggered either through a keybind (default is `Ctrl+Alt+R`), a button on the status bar, or the `customstartcommands.start` command.
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+There are no additional requirements for this extension.
 
 ## Extension Settings
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
 This extension contributes the following settings:
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+* `customstartcommands.start_command`: The command to be executed on trigger.
 
 ## Known Issues
 
-Currently, there are no knownn issues. If you discover anything please create a new issue on this project's [GitHub page]().
+Currently, there are no knownn issues. If you discover anything please create a new issue on this project's [GitHub page](https://github.com/RM220507/customstartcommands).
 
 ## About Me
 
